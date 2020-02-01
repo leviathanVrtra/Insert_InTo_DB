@@ -1,0 +1,16 @@
+{
+  "name": "js_code",
+  "version": "1.0.0",
+  "description": "Learning NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon slugify.js"
+  },
+  "author": "Sachin Verma",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.17.1",
+    "node-fetch": "^2.6.0",
+    "slugify": "^1.3.6"
+  }
+}
